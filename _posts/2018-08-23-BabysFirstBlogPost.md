@@ -1,4 +1,3 @@
-
 ---
 title: "Baby's First Blog Post"
 date: 2018-08-23
